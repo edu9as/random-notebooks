@@ -1,0 +1,361 @@
+country,vs,team_score,vs_score,#,Players,Pts,OREB,DREB,REB,AST,PF,TO,STL,BLK,+/-,EFF,FGS,FGA,2PtsS,2PtsA,3PtsS,3PtsA,FTS,FTA,day,month,Sec
+Iran,Czech Republic,78,84,3,Mohammadsina Vahedi,0,0,0,0,0,0,1,0,0,-3,-3,0,2,0,1,0,1,0,0,25,07,153
+Iran,Czech Republic,78,84,5,Pujan Jalalpoor,3,0,0,0,0,0,1,0,0,-6,0,1,3,0,2,1,1,0,0,25,07,544
+Iran,Czech Republic,78,84,7,Mohammad Hassanzadeh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+Iran,Czech Republic,78,84,8,Saeid Davarpanah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+Iran,Czech Republic,78,84,13,Mohammad Jamshidijafarabadi,16,0,1,1,7,1,7,1,0,-5,13,7,11,6,9,1,2,1,2,25,07,1716
+Iran,Czech Republic,78,84,14,Mohammadsamad Nik Khahbahrami,8,1,5,6,2,2,3,3,0,-1,8,3,11,1,3,2,8,0,0,25,07,1925
+Iran,Czech Republic,78,84,15,Hamed Haddadi,15,2,8,10,4,5,4,2,1,1,21,5,9,5,9,0,0,5,8,25,07,1728
+Iran,Czech Republic,78,84,17,Navid Rezaeifar,4,1,2,3,2,1,1,0,0,14,6,2,4,2,2,0,2,0,0,25,07,1115
+Iran,Czech Republic,78,84,20,Michael Rostampour,2,1,1,2,0,2,0,0,0,-9,2,1,2,1,1,0,1,0,1,25,07,786
+Iran,Czech Republic,78,84,23,Aaron Geramipoor,2,1,2,3,0,3,2,0,0,-7,3,1,1,1,1,0,0,0,0,25,07,672
+Iran,Czech Republic,78,84,41,Arsalan Kazemi,5,1,1,2,1,2,0,2,0,-7,7,2,3,2,3,0,0,1,3,25,07,1193
+Iran,Czech Republic,78,84,88,Behnam Yakhchalidehkordi,23,0,3,3,4,2,2,1,0,-7,22,9,16,7,12,2,4,3,3,25,07,2168
+Czech Republic,Iran,84,78,1,Patrik Auda,16,2,4,6,0,3,3,0,0,7,14,4,7,4,7,0,0,8,10,25,07,1357
+Czech Republic,Iran,84,78,4,Tomas Vyoral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+Czech Republic,Iran,84,78,8,Tomas Satoransky,6,5,3,8,8,1,6,5,0,7,9,2,14,2,9,0,5,2,2,25,07,2041
+Czech Republic,Iran,84,78,11,Blake Schilb,14,1,3,4,5,0,1,0,1,2,19,6,10,4,5,2,5,0,0,25,07,1442
+Czech Republic,Iran,84,78,12,Ondrej Balvín,9,5,3,8,0,2,2,0,1,2,13,4,6,4,5,0,1,1,2,25,07,1142
+Czech Republic,Iran,84,78,13,Jakub Sirina,5,0,2,2,3,1,0,0,0,9,8,2,4,1,2,1,2,0,0,25,07,882
+Czech Republic,Iran,84,78,15,Martin Peterka,5,0,3,3,2,2,0,2,0,1,9,2,5,1,2,1,3,0,0,25,07,820
+Czech Republic,Iran,84,78,17,Jaromir Bohacik,6,0,0,0,5,3,0,1,0,1,7,3,8,3,3,0,5,0,0,25,07,1274
+Czech Republic,Iran,84,78,19,Ondrej Sehnal,0,1,0,1,1,0,0,0,0,-1,2,0,0,0,0,0,0,0,0,25,07,218
+Czech Republic,Iran,84,78,23,Lukas Palyza,5,0,1,1,0,1,0,0,0,-5,3,2,5,1,1,1,4,0,0,25,07,617
+Czech Republic,Iran,84,78,24,Jan Vesely,11,1,6,7,3,1,3,2,0,2,15,5,7,5,7,0,0,1,4,25,07,1481
+Czech Republic,Iran,84,78,25,David Jelinek,7,0,0,0,2,3,0,2,0,5,6,3,8,2,3,1,5,0,0,25,07,726
+Germany,Italy,82,92,0,Isaac Bonga,13,0,3,3,4,1,2,2,2,-21,18,5,8,3,4,2,4,1,2,25,07,1625
+Germany,Italy,82,92,1,Joshiko Saibou,6,1,2,3,1,3,2,0,0,-12,6,3,5,3,4,0,1,0,0,25,07,579
+Germany,Italy,82,92,4,Maodo Lo,24,0,4,4,4,2,3,0,0,-2,26,9,12,3,3,6,9,0,0,25,07,1709
+Germany,Italy,82,92,5,Niels Giffey,3,1,1,2,0,0,0,1,0,10,4,1,3,0,2,1,1,0,0,25,07,1192
+Germany,Italy,82,92,6,Jan Niklas Wimberg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,9
+Germany,Italy,82,92,7,Johannes Voigtmann,3,2,4,6,4,3,3,0,0,-3,9,1,2,0,0,1,2,0,0,25,07,1291
+Germany,Italy,82,92,12,Robin Benzing,0,0,2,2,0,3,0,1,0,1,1,0,2,0,0,0,2,0,0,25,07,318
+Germany,Italy,82,92,13,Moritz Wagner,12,0,4,4,1,3,1,0,0,-10,8,3,10,3,9,0,1,6,7,25,07,1236
+Germany,Italy,82,92,19,Lukas Wank,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,9
+Germany,Italy,82,92,22,Danilo Barthel,5,1,0,1,0,0,2,0,0,4,0,2,6,1,5,1,1,0,0,25,07,1091
+Germany,Italy,82,92,32,Johannes Thiemann,4,1,2,3,0,1,0,1,0,-11,5,2,5,2,3,0,2,0,0,25,07,1173
+Germany,Italy,82,92,42,Andreas Obst,12,0,0,0,1,0,0,1,0,-6,7,4,11,0,2,4,9,0,0,25,07,1768
+Italy,Germany,92,82,0,Marco Spissu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+Italy,Germany,92,82,1,Nico Mannion,10,0,0,0,7,0,1,0,0,0,10,4,10,2,5,2,5,0,0,25,07,1411
+Italy,Germany,92,82,7,Stefano Tonut,18,1,2,3,2,2,1,3,0,4,20,8,13,6,8,2,5,0,0,25,07,1892
+Italy,Germany,92,82,8,Danilo Gallinari,18,0,2,2,2,3,0,1,1,19,20,6,9,4,7,2,2,4,5,25,07,1527
+Italy,Germany,92,82,9,Nicolò Melli,13,4,5,9,1,3,1,2,0,4,18,5,10,3,5,2,5,1,2,25,07,1549
+Italy,Germany,92,82,13,Simone Fontecchio,20,1,3,4,2,2,2,3,1,8,21,7,13,2,8,5,5,1,2,25,07,1789
+Italy,Germany,92,82,16,Amedeo Tessitori,0,0,2,2,1,1,2,0,0,5,0,0,1,0,1,0,0,0,0,25,07,265
+Italy,Germany,92,82,17,Giampaolo Ricci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+Italy,Germany,92,82,24,Riccardo Moraschini,8,1,1,2,1,0,1,0,0,3,8,2,4,1,2,1,2,3,3,25,07,675
+Italy,Germany,92,82,31,Michele Vitali,3,0,2,2,1,0,0,0,0,7,6,1,1,0,0,1,1,0,0,25,07,430
+Italy,Germany,92,82,33,Achille Polonara,0,0,4,4,1,1,1,0,2,-13,0,0,6,0,0,0,6,0,0,25,07,1398
+Italy,Germany,92,82,54,Alessandro Pajola,2,0,3,3,2,3,0,2,0,13,9,1,1,1,1,0,0,0,0,25,07,1064
+Australia,Nigeria,84,67,4,Chris Goulding,0,0,0,0,0,0,1,0,0,-6,-3,0,2,0,1,0,1,0,0,25,07,363
+Australia,Nigeria,84,67,5,Patty Mills,25,2,2,4,6,2,3,4,0,20,25,7,16,2,8,5,8,6,8,25,07,2072
+Australia,Nigeria,84,67,6,Josh Green,0,2,0,2,0,1,0,2,0,-1,3,0,1,0,1,0,0,0,0,25,07,345
+Australia,Nigeria,84,67,7,Joe Ingles,11,0,4,4,3,2,3,0,0,11,7,4,12,2,7,2,5,1,1,25,07,1948
+Australia,Nigeria,84,67,8,Matthew Dellavedova,8,0,3,3,3,2,2,0,0,9,9,2,5,0,1,2,4,2,2,25,07,964
+Australia,Nigeria,84,67,9,Nathan Sobey,0,0,0,0,0,0,1,0,0,-1,-1,0,0,0,0,0,0,0,0,25,07,111
+Australia,Nigeria,84,67,10,Matisse Thybulle,7,1,3,4,2,3,2,5,0,19,13,3,6,2,4,1,2,0,0,25,07,1390
+Australia,Nigeria,84,67,11,Dante Exum,11,1,4,5,3,1,5,1,0,6,8,4,11,3,9,1,2,2,2,25,07,1456
+Australia,Nigeria,84,67,12,Aron Baynes,4,1,4,5,0,1,2,0,0,5,4,2,5,2,5,0,0,0,0,25,07,918
+Australia,Nigeria,84,67,13,Jock  Landale,4,0,3,3,1,4,1,0,0,8,5,0,2,0,1,0,1,4,4,25,07,791
+Australia,Nigeria,84,67,14,Duop Thomas Reath,2,0,0,0,0,0,0,0,0,-2,2,1,1,1,1,0,0,0,0,25,07,76
+Australia,Nigeria,84,67,15,Nick Kay,12,4,4,8,3,4,1,0,1,17,18,5,10,5,9,0,1,2,2,25,07,1566
+Nigeria,Australia,67,84,0,KZ Okpala,4,1,2,3,1,4,1,0,0,-14,2,2,5,2,4,0,1,0,2,25,07,993
+Nigeria,Australia,67,84,3,Caleb Agada,2,0,3,3,3,1,3,1,3,7,5,1,3,1,2,0,1,0,2,25,07,832
+Nigeria,Australia,67,84,8,Ekpe Udoh,0,0,1,1,0,0,0,0,1,-1,1,0,1,0,1,0,0,0,0,25,07,274
+Nigeria,Australia,67,84,10,Chimezie Metu,2,1,4,5,2,2,1,2,1,3,9,1,3,1,2,0,1,0,0,25,07,857
+Nigeria,Australia,67,84,11,Obi Emegano,12,0,1,1,2,1,3,1,0,-11,9,4,7,1,3,3,4,1,2,25,07,1155
+Nigeria,Australia,67,84,13,Miye Oni,2,0,2,2,2,2,2,0,0,-16,2,1,3,1,2,0,1,0,0,25,07,1393
+Nigeria,Australia,67,84,15,Jahlil Okafor,4,2,2,4,0,1,1,0,0,-5,7,2,2,2,2,0,0,0,0,25,07,677
+Nigeria,Australia,67,84,20,Josh Okogie,11,0,2,2,3,1,3,2,1,-9,12,3,7,3,5,0,2,5,5,25,07,1371
+Nigeria,Australia,67,84,22,Nnamdi Vincent,7,1,4,5,1,3,1,1,0,-21,3,1,7,0,1,1,6,4,8,25,07,1526
+Nigeria,Australia,67,84,33,Jordan Nwora,10,0,3,3,0,2,4,4,0,-7,4,4,12,2,6,2,6,0,1,25,07,1411
+Nigeria,Australia,67,84,34,Ike Nwamu,3,0,1,1,0,2,0,0,0,1,3,1,2,0,0,1,2,0,0,25,07,219
+Nigeria,Australia,67,84,55,Precious Achiuwa,10,2,4,6,2,3,5,3,1,-12,10,4,9,4,9,0,0,2,4,25,07,1292
+France,USA,83,76,1,Frank Ntilikina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+France,USA,83,76,3,Timothé Luwawu-Cabarrot,2,0,2,2,1,4,0,1,0,-8,1,1,6,1,3,0,3,0,0,25,07,907
+France,USA,83,76,4,Thomas  Heurtel,5,1,0,1,2,1,2,0,0,4,3,2,5,1,1,1,4,0,0,25,07,1032
+France,USA,83,76,5,Nicolas Batum,5,0,4,4,5,2,0,1,0,8,12,1,4,0,1,1,3,2,2,25,07,1854
+France,USA,83,76,7,Guerschon Yabusele,6,1,3,4,1,3,1,0,0,-13,9,3,4,3,4,0,0,0,0,25,07,1114
+France,USA,83,76,10,Evan Fournier,28,1,3,4,1,2,5,1,0,10,17,11,22,7,10,4,12,2,3,25,07,2027
+France,USA,83,76,12,Nando De Colo,13,1,4,5,5,3,3,2,0,14,14,4,11,2,6,2,5,3,4,25,07,1929
+France,USA,83,76,17,Vincent  Poirier,3,0,4,4,2,1,0,0,0,12,8,1,2,1,2,0,0,1,1,25,07,647
+France,USA,83,76,21,Andrew Albicy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+France,USA,83,76,27,Rudy Gobert,14,2,7,9,1,2,0,0,0,4,19,5,6,5,6,0,0,4,8,25,07,1721
+France,USA,83,76,28,Petr Cornelie,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25,07,90
+France,USA,83,76,93,Moustapha Fall,7,0,4,4,0,2,2,0,0,3,7,1,2,1,2,0,0,5,6,25,07,679
+USA,France,76,83,4,Keldon Johnson,0,0,1,1,1,1,0,0,0,-11,1,0,1,0,1,0,0,0,0,25,07,558
+USA,France,76,83,5,Zach Lavine,8,2,0,2,3,3,1,0,0,-7,9,3,6,1,2,2,4,0,0,25,07,1095
+USA,France,76,83,6,Damian  Lillard,11,1,2,3,3,2,4,1,0,0,6,3,10,0,1,3,9,2,3,25,07,1668
+USA,France,76,83,7,Kevin Durant,10,0,2,2,2,5,0,0,0,2,6,4,12,3,6,1,6,1,1,25,07,1240
+USA,France,76,83,8,Khris Middleton,0,0,1,1,1,0,0,1,0,0,1,0,2,0,2,0,0,0,0,25,07,327
+USA,France,76,83,9,Jerami Grant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,07,0
+USA,France,76,83,10,Jayson  Tatum,9,0,1,1,0,2,2,0,2,2,4,3,9,2,4,1,5,2,2,25,07,1422
+USA,France,76,83,11,Javale McGee,2,1,0,1,0,1,0,0,0,-2,2,0,1,0,1,0,0,2,2,25,07,115
+USA,France,76,83,12,Jrue Holiday,18,3,4,7,4,2,1,1,0,-2,20,5,13,2,7,3,6,5,6,25,07,1672
+USA,France,76,83,13,Bam Adebayo,12,4,6,10,2,3,2,2,1,-6,20,5,8,5,8,0,0,2,4,25,07,1523
+USA,France,76,83,14,Draymond Green,2,0,2,2,4,4,0,2,1,-3,11,1,1,1,1,0,0,0,0,25,07,1270
+USA,France,76,83,15,Devin Booker,4,0,2,2,3,2,2,1,0,-8,2,1,6,1,4,0,2,2,3,25,07,1110
+Argentina,Slovenia,100,118,4,Luís Scola,23,1,3,4,1,3,1,0,1,-26,17,9,18,9,14,0,4,5,7,26,07,1627
+Argentina,Slovenia,100,118,7,Facundo Campazzo,21,2,4,6,4,3,2,3,0,-16,22,7,16,4,6,3,10,4,5,26,07,1740
+Argentina,Slovenia,100,118,8,Nicolás Laprovittola,8,0,1,1,2,3,3,1,0,-2,7,2,4,2,2,0,2,4,4,26,07,860
+Argentina,Slovenia,100,118,9,Nicolas Brussino,5,0,0,0,2,3,0,0,1,4,6,2,4,1,2,1,2,0,0,26,07,915
+Argentina,Slovenia,100,118,10,Leandro Bolmaro,2,0,0,0,1,2,0,0,0,-4,1,1,3,1,2,0,1,0,0,26,07,815
+Argentina,Slovenia,100,118,11,Francisco Caffaro,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,26,07,267
+Argentina,Slovenia,100,118,12,Marcos Delia,7,2,3,5,1,1,0,2,0,-12,13,2,4,2,4,0,0,3,3,26,07,1004
+Argentina,Slovenia,100,118,14,Gabriel Deck,17,1,7,8,2,4,3,1,0,-3,16,8,17,7,11,1,6,0,0,26,07,1595
+Argentina,Slovenia,100,118,17,Luca Vildoza,11,0,3,3,5,1,0,3,0,-14,16,3,8,3,5,0,3,5,6,26,07,1385
+Argentina,Slovenia,100,118,22,Juan Pablo Vaulet,4,0,2,2,0,0,0,2,0,0,7,2,3,2,3,0,0,0,0,26,07,420
+Argentina,Slovenia,100,118,29,Patricio Garino,2,0,0,0,2,3,1,0,0,-17,-2,1,6,1,3,0,3,0,0,26,07,1372
+Argentina,Slovenia,100,118,83,Tayavek Gallizzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,07,0
+Slovenia,Argentina,118,100,5,Luka Rupnik,4,0,1,1,4,1,2,0,0,-14,3,1,4,0,0,1,4,1,2,26,07,659
+Slovenia,Argentina,118,100,6,Aleksej Nikolic,3,0,0,0,1,2,1,0,0,9,3,1,1,0,0,1,1,0,0,26,07,261
+Slovenia,Argentina,118,100,7,Klemen Prepelic,22,2,2,4,2,4,2,0,0,5,23,6,8,2,2,4,6,6,7,26,07,1296
+Slovenia,Argentina,118,100,8,Edo Murić,3,0,5,5,1,5,2,0,0,-5,4,1,4,0,0,1,4,0,0,26,07,964
+Slovenia,Argentina,118,100,10,Mike Tobey,11,2,12,14,1,5,1,0,0,33,22,5,8,5,6,0,2,1,1,26,07,1662
+Slovenia,Argentina,118,100,11,Jaka Blažič,3,1,4,5,1,2,3,0,1,8,2,1,6,0,3,1,3,0,0,26,07,1627
+Slovenia,Argentina,118,100,15,Gregor Hrovat,0,0,0,0,0,1,0,0,0,-4,0,0,0,0,0,0,0,0,0,26,07,213
+Slovenia,Argentina,118,100,27,Žiga Dimec,5,3,4,7,1,2,1,0,0,-7,7,2,4,2,4,0,0,1,4,26,07,471
+Slovenia,Argentina,118,100,30,Zoran Dragic,7,3,1,4,0,1,0,1,0,16,4,2,7,1,4,1,3,2,5,26,07,1277
+Slovenia,Argentina,118,100,31,Vlatko Cancar,12,1,4,5,1,2,1,2,0,22,12,5,12,4,7,1,5,1,1,26,07,1591
+Slovenia,Argentina,118,100,55,Jakob Cebasek,0,0,0,0,0,1,0,0,0,-7,-1,0,1,0,0,0,1,0,0,26,07,112
+Slovenia,Argentina,118,100,77,Luka Doncic,48,3,8,11,5,3,6,0,3,34,49,18,29,12,15,6,14,6,7,26,07,1867
+Nigeria,Germany,92,99,0,KZ Okpala,5,0,6,6,2,2,1,5,0,-4,16,2,2,2,2,0,0,1,2,28,07,1321
+Nigeria,Germany,92,99,3,Caleb Agada,6,0,0,0,0,1,0,0,0,-2,5,2,3,0,1,2,2,0,0,28,07,297
+Nigeria,Germany,92,99,8,Ekpe Udoh,2,0,1,1,1,2,1,0,1,4,1,0,1,0,1,0,0,2,4,28,07,457
+Nigeria,Germany,92,99,10,Chimezie Metu,3,2,3,5,2,1,1,1,2,-4,9,1,4,0,1,1,3,0,0,28,07,766
+Nigeria,Germany,92,99,11,Obi Emegano,2,1,0,1,6,3,1,0,0,10,4,1,5,1,3,0,2,0,0,28,07,1156
+Nigeria,Germany,92,99,13,Miye Oni,15,1,1,2,1,2,3,0,0,-1,13,5,7,0,1,5,6,0,0,28,07,1260
+Nigeria,Germany,92,99,15,Jahlil Okafor,9,1,1,2,1,3,4,0,0,-6,7,3,4,3,4,0,0,3,3,28,07,812
+Nigeria,Germany,92,99,20,Josh Okogie,0,0,0,0,3,1,1,2,0,-18,2,0,2,0,2,0,0,0,0,28,07,963
+Nigeria,Germany,92,99,22,Nnamdi Vincent,8,0,0,0,3,4,0,1,0,1,4,3,11,1,1,2,10,0,0,28,07,1403
+Nigeria,Germany,92,99,33,Jordan Nwora,33,0,7,7,2,3,1,1,0,-1,35,13,20,6,8,7,12,0,0,28,07,1804
+Nigeria,Germany,92,99,34,Ike Nwamu,0,0,0,0,1,0,2,1,0,-15,-1,0,1,0,0,0,1,0,0,28,07,776
+Nigeria,Germany,92,99,55,Precious Achiuwa,9,0,2,2,0,4,3,1,2,1,6,4,7,4,7,0,0,1,3,28,07,985
+Germany,Nigeria,99,92,0,Isaac Bonga,5,4,2,6,3,1,2,0,0,-4,9,2,5,2,4,0,1,1,1,28,07,1371
+Germany,Nigeria,99,92,1,Joshiko Saibou,3,0,0,0,1,1,1,0,0,-5,-2,1,6,0,5,1,1,0,0,28,07,662
+Germany,Nigeria,99,92,4,Maodo Lo,13,0,2,2,9,1,9,0,0,12,8,5,11,3,4,2,7,1,2,28,07,1738
+Germany,Nigeria,99,92,5,Niels Giffey,5,0,0,0,1,3,2,0,0,11,2,2,4,1,2,1,2,0,0,28,07,1345
+Germany,Nigeria,99,92,6,Jan Niklas Wimberg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Germany,Nigeria,99,92,7,Johannes Voigtmann,19,0,7,7,1,0,3,1,0,9,21,7,11,5,6,2,5,3,3,28,07,1665
+Germany,Nigeria,99,92,12,Robin Benzing,2,0,1,1,0,2,1,0,0,-2,0,0,2,0,1,0,1,2,2,28,07,398
+Germany,Nigeria,99,92,13,Moritz Wagner,17,0,3,3,1,4,1,3,0,0,20,6,8,4,6,2,2,3,4,28,07,735
+Germany,Nigeria,99,92,19,Lukas Wank,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Germany,Nigeria,99,92,22,Danilo Barthel,14,0,1,1,2,0,0,0,0,7,16,4,4,4,4,0,0,6,7,28,07,1101
+Germany,Nigeria,99,92,32,Johannes Thiemann,9,1,9,10,0,2,0,1,0,0,18,4,6,3,4,1,2,0,0,28,07,1229
+Germany,Nigeria,99,92,42,Andreas Obst,12,0,0,0,1,2,0,1,0,7,10,3,6,0,1,3,5,3,4,28,07,1756
+USA,Iran,120,66,4,Keldon Johnson,4,0,1,1,1,0,0,0,0,17,6,1,1,1,1,0,0,2,2,28,07,415
+USA,Iran,120,66,5,Zach Lavine,13,1,3,4,8,1,0,1,0,23,24,3,5,1,1,2,4,5,5,28,07,1356
+USA,Iran,120,66,6,Damian  Lillard,21,1,1,2,5,1,1,0,0,27,19,7,15,0,2,7,13,0,0,28,07,1387
+USA,Iran,120,66,7,Kevin Durant,10,0,5,5,5,0,0,2,3,27,21,4,8,2,4,2,4,0,0,28,07,1178
+USA,Iran,120,66,8,Khris Middleton,10,1,1,2,2,3,0,0,0,7,12,4,6,2,2,2,4,0,0,28,07,939
+USA,Iran,120,66,9,Jerami Grant,4,0,3,3,2,2,0,0,0,30,7,1,2,0,1,1,1,1,2,28,07,764
+USA,Iran,120,66,10,Jayson  Tatum,14,0,4,4,2,1,1,0,1,24,14,5,11,3,4,2,7,2,2,28,07,1036
+USA,Iran,120,66,11,Javale McGee,9,0,2,2,0,2,0,2,1,8,12,4,6,4,5,0,1,1,1,28,07,713
+USA,Iran,120,66,12,Jrue Holiday,8,0,4,4,3,0,1,1,2,32,14,3,6,1,3,2,3,0,0,28,07,1391
+USA,Iran,120,66,13,Bam Adebayo,6,0,0,0,1,0,0,1,3,18,8,3,6,3,6,0,0,0,0,28,07,790
+USA,Iran,120,66,14,Draymond Green,5,1,3,4,4,4,2,0,0,28,11,1,1,0,0,1,1,2,2,28,07,897
+USA,Iran,120,66,15,Devin Booker,16,1,3,4,1,2,1,3,0,29,20,6,9,6,8,0,1,4,4,28,07,1134
+Iran,USA,66,120,3,Mohammadsina Vahedi,0,0,4,4,0,2,0,0,0,-4,-1,0,5,0,3,0,2,0,0,28,07,552
+Iran,USA,66,120,5,Pujan Jalalpoor,0,0,4,4,3,1,0,0,0,-5,5,0,2,0,0,0,2,0,0,28,07,646
+Iran,USA,66,120,7,Mohammad Hassanzadeh,4,1,1,2,1,3,0,0,0,-16,6,2,3,2,3,0,0,0,0,28,07,749
+Iran,USA,66,120,8,Saeid Davarpanah,8,1,1,2,2,2,2,0,0,-19,6,3,7,1,3,2,4,0,0,28,07,816
+Iran,USA,66,120,13,Mohammad Jamshidijafarabadi,14,1,1,2,3,0,3,0,0,-15,6,5,14,3,8,2,6,2,3,28,07,1308
+Iran,USA,66,120,14,Mohammadsamad Nik Khahbahrami,2,0,3,3,1,2,6,0,0,-38,-4,1,5,1,3,0,2,0,0,28,07,1085
+Iran,USA,66,120,15,Hamed Haddadi,14,4,3,7,1,2,4,0,1,-35,13,5,7,5,7,0,0,4,8,28,07,1341
+Iran,USA,66,120,17,Navid Rezaeifar,13,2,0,2,2,1,2,1,0,-35,11,5,10,2,6,3,4,0,0,28,07,1434
+Iran,USA,66,120,20,Michael Rostampour,0,1,1,2,0,1,0,0,0,-9,0,0,2,0,1,0,1,0,0,28,07,525
+Iran,USA,66,120,23,Aaron Geramipoor,0,2,2,4,0,0,0,0,0,-11,0,0,4,0,4,0,0,0,0,28,07,611
+Iran,USA,66,120,41,Arsalan Kazemi,5,0,4,4,2,0,1,1,0,-33,10,2,2,2,2,0,0,1,2,28,07,1447
+Iran,USA,66,120,88,Behnam Yakhchalidehkordi,6,0,1,1,2,1,2,1,0,-50,4,2,6,0,1,2,5,0,0,28,07,1486
+Italy,Australia,83,86,0,Marco Spissu,0,0,1,1,0,0,0,0,0,-4,1,0,0,0,0,0,0,0,0,28,07,311
+Italy,Australia,83,86,1,Nico Mannion,21,0,3,3,7,3,1,0,0,4,24,9,15,8,10,1,5,2,2,28,07,1454
+Italy,Australia,83,86,7,Stefano Tonut,8,0,1,1,1,1,0,0,0,-8,8,2,4,0,1,2,3,2,2,28,07,1338
+Italy,Australia,83,86,8,Danilo Gallinari,5,0,2,2,0,0,0,0,0,5,3,2,5,2,4,0,1,1,2,28,07,1126
+Italy,Australia,83,86,9,Nicolò Melli,0,0,4,4,2,1,1,0,2,-9,4,0,3,0,2,0,1,0,0,28,07,1469
+Italy,Australia,83,86,13,Simone Fontecchio,22,1,3,4,0,2,1,0,1,-6,19,10,17,9,13,1,4,1,1,28,07,1709
+Italy,Australia,83,86,16,Amedeo Tessitori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Italy,Australia,83,86,17,Giampaolo Ricci,7,0,2,2,2,4,1,1,0,11,11,3,3,2,2,1,1,0,0,28,07,848
+Italy,Australia,83,86,24,Riccardo Moraschini,2,0,2,2,2,0,0,1,0,3,5,0,2,0,2,0,0,2,2,28,07,691
+Italy,Australia,83,86,31,Michele Vitali,6,1,1,2,1,2,0,0,0,5,7,2,4,1,1,1,3,1,1,28,07,1062
+Italy,Australia,83,86,33,Achille Polonara,12,3,4,7,1,2,3,1,0,-13,11,5,12,3,6,2,6,0,0,28,07,1357
+Italy,Australia,83,86,54,Alessandro Pajola,0,0,0,0,0,3,0,0,0,-3,-1,0,1,0,0,0,1,0,0,28,07,635
+Australia,Italy,86,83,4,Chris Goulding,0,1,0,1,0,0,0,0,0,-7,-2,0,3,0,1,0,2,0,0,28,07,188
+Australia,Italy,86,83,5,Patty Mills,16,1,5,6,5,1,2,1,0,11,15,6,17,4,8,2,9,2,2,28,07,2144
+Australia,Italy,86,83,6,Josh Green,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,10
+Australia,Italy,86,83,7,Joe Ingles,14,0,4,4,5,3,1,0,0,-4,16,5,11,1,2,4,9,0,0,28,07,2002
+Australia,Italy,86,83,8,Matthew Dellavedova,2,0,1,1,3,3,1,0,0,5,2,0,3,0,1,0,2,2,2,28,07,1373
+Australia,Italy,86,83,9,Nathan Sobey,0,0,1,1,0,1,0,0,0,-5,-1,0,2,0,1,0,1,0,0,28,07,99
+Australia,Italy,86,83,10,Matisse Thybulle,7,0,3,3,4,2,0,1,1,7,15,2,3,1,2,1,1,2,2,28,07,1218
+Australia,Italy,86,83,11,Dante Exum,0,0,3,3,4,2,4,1,0,-1,0,0,2,0,1,0,1,0,2,28,07,1077
+Australia,Italy,86,83,12,Aron Baynes,14,5,2,7,1,2,1,0,1,-8,17,6,11,4,8,2,3,0,0,28,07,867
+Australia,Italy,86,83,13,Jock  Landale,18,4,3,7,2,2,1,1,1,16,23,7,11,6,9,1,2,3,4,28,07,1436
+Australia,Italy,86,83,14,Duop Thomas Reath,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Australia,Italy,86,83,15,Nick Kay,15,4,3,7,2,2,0,0,1,1,24,6,7,5,6,1,1,2,2,28,07,1586
+Czech Republic,France,77,97,1,Patrik Auda,14,2,0,2,0,3,3,0,0,-8,4,5,10,5,9,0,1,4,8,28,07,1374
+Czech Republic,France,77,97,4,Tomas Vyoral,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,28,07,356
+Czech Republic,France,77,97,8,Tomas Satoransky,14,0,3,3,10,0,4,1,0,-19,18,5,8,3,5,2,3,2,5,28,07,2079
+Czech Republic,France,77,97,11,Blake Schilb,0,0,1,1,2,0,0,1,0,-11,0,0,4,0,2,0,2,0,0,28,07,959
+Czech Republic,France,77,97,12,Ondrej Balvín,18,3,5,8,0,1,3,2,3,-17,24,8,11,6,8,2,3,0,1,28,07,1620
+Czech Republic,France,77,97,13,Jakub Sirina,6,0,1,1,4,1,2,1,0,-5,7,2,5,0,1,2,4,0,0,28,07,928
+Czech Republic,France,77,97,15,Martin Peterka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Czech Republic,France,77,97,17,Jaromir Bohacik,0,0,1,1,1,3,0,2,0,-2,1,0,3,0,1,0,2,0,0,28,07,1387
+Czech Republic,France,77,97,19,Ondrej Sehnal,0,1,0,1,1,1,0,0,0,4,2,0,0,0,0,0,0,0,0,28,07,395
+Czech Republic,France,77,97,23,Lukas Palyza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+Czech Republic,France,77,97,24,Jan Vesely,19,1,4,5,3,1,4,4,0,-23,23,9,12,9,12,0,0,1,2,28,07,1931
+Czech Republic,France,77,97,25,David Jelinek,6,0,2,2,3,1,0,0,0,-11,8,2,5,0,3,2,2,0,0,28,07,971
+France,Czech Republic,97,77,1,Frank Ntilikina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,07,0
+France,Czech Republic,97,77,3,Timothé Luwawu-Cabarrot,9,1,0,1,2,4,1,3,0,6,10,2,6,0,0,2,6,3,3,28,07,1272
+France,Czech Republic,97,77,4,Thomas  Heurtel,11,0,2,2,7,2,4,1,0,12,9,4,11,2,7,2,4,1,2,28,07,1402
+France,Czech Republic,97,77,5,Nicolas Batum,9,1,4,5,2,1,0,1,0,5,15,4,6,3,3,1,3,0,0,28,07,1594
+France,Czech Republic,97,77,7,Guerschon Yabusele,5,0,2,2,2,2,1,1,0,2,6,2,5,1,1,1,4,0,0,28,07,378
+France,Czech Republic,97,77,10,Evan Fournier,21,0,2,2,3,1,2,1,0,13,19,8,13,5,7,3,6,2,3,28,07,1650
+France,Czech Republic,97,77,12,Nando De Colo,17,1,0,1,8,2,4,2,0,16,19,7,12,4,6,3,6,0,0,28,07,1504
+France,Czech Republic,97,77,17,Vincent  Poirier,14,2,3,5,0,1,1,0,0,14,16,6,8,6,8,0,0,2,2,28,07,1135
+France,Czech Republic,97,77,21,Andrew Albicy,0,0,1,1,1,0,0,0,0,17,2,0,0,0,0,0,0,0,0,28,07,812
+France,Czech Republic,97,77,27,Rudy Gobert,6,3,7,10,2,1,0,0,0,15,16,3,5,3,5,0,0,0,0,28,07,1291
+France,Czech Republic,97,77,28,Petr Cornelie,3,1,0,1,0,2,0,0,0,-4,4,1,1,0,0,1,1,0,0,28,07,302
+France,Czech Republic,97,77,93,Moustapha Fall,2,0,2,2,0,3,1,0,0,4,3,1,1,1,1,0,0,0,0,28,07,660
+Iran,France,62,79,3,Mohammadsina Vahedi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Iran,France,62,79,5,Pujan Jalalpoor,0,0,1,1,0,1,2,0,0,-3,-6,0,5,0,4,0,1,0,0,31,07,1131
+Iran,France,62,79,7,Mohammad Hassanzadeh,4,0,2,2,0,0,0,2,0,-7,7,1,2,1,2,0,0,2,2,31,07,580
+Iran,France,62,79,8,Saeid Davarpanah,5,0,2,2,1,2,4,0,0,0,2,2,4,1,1,1,3,0,0,31,07,815
+Iran,France,62,79,13,Mohammad Jamshidijafarabadi,2,0,0,0,4,0,1,0,1,-13,3,0,3,0,3,0,0,2,2,31,07,709
+Iran,France,62,79,14,Mohammadsamad Nik Khahbahrami,9,0,3,3,1,3,3,0,0,-7,-1,3,14,2,8,1,6,2,2,31,07,1927
+Iran,France,62,79,15,Hamed Haddadi,18,2,10,12,5,3,3,2,3,-18,26,5,14,4,12,1,2,7,9,31,07,2259
+Iran,France,62,79,17,Navid Rezaeifar,2,0,0,0,1,0,0,0,0,-10,2,1,2,1,2,0,0,0,0,31,07,604
+Iran,France,62,79,20,Michael Rostampour,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Iran,France,62,79,23,Aaron Geramipoor,0,0,0,0,0,1,1,1,0,-6,0,0,0,0,0,0,0,0,0,31,07,320
+Iran,France,62,79,41,Arsalan Kazemi,11,4,4,8,2,3,0,3,0,-3,19,5,7,5,7,0,0,1,4,31,07,1641
+Iran,France,62,79,88,Behnam Yakhchalidehkordi,11,0,1,1,3,2,1,0,0,-18,8,4,10,1,4,3,6,0,0,31,07,2014
+France,Iran,79,62,1,Frank Ntilikina,3,0,2,2,4,2,1,1,0,9,7,1,3,0,1,1,2,0,0,31,07,1134
+France,Iran,79,62,3,Timothé Luwawu-Cabarrot,12,0,5,5,3,2,0,2,0,12,19,5,8,4,5,1,3,1,1,31,07,1481
+France,Iran,79,62,4,Thomas  Heurtel,16,0,3,3,0,0,0,0,0,12,17,7,9,5,6,2,3,0,0,31,07,882
+France,Iran,79,62,5,Nicolas Batum,9,1,1,2,1,0,1,0,0,4,7,2,5,0,1,2,4,3,4,31,07,1048
+France,Iran,79,62,7,Guerschon Yabusele,5,0,5,5,1,2,5,0,1,1,1,2,8,1,4,1,4,0,0,31,07,1151
+France,Iran,79,62,10,Evan Fournier,3,0,2,2,2,3,0,0,0,5,4,1,4,0,1,1,3,0,0,31,07,856
+France,Iran,79,62,12,Nando De Colo,10,0,5,5,5,2,1,1,0,7,20,4,4,4,4,0,0,2,2,31,07,888
+France,Iran,79,62,17,Vincent  Poirier,10,1,1,2,0,4,2,2,0,-1,10,5,7,5,7,0,0,0,0,31,07,880
+France,Iran,79,62,21,Andrew Albicy,0,0,0,0,2,1,4,1,0,3,-2,0,1,0,1,0,0,0,0,31,07,957
+France,Iran,79,62,27,Rudy Gobert,6,1,3,4,1,1,0,2,0,6,8,2,7,2,7,0,0,2,2,31,07,1060
+France,Iran,79,62,28,Petr Cornelie,2,1,4,5,2,1,0,0,0,13,6,1,4,1,3,0,1,0,0,31,07,690
+France,Iran,79,62,93,Moustapha Fall,3,1,2,3,3,2,1,0,1,14,6,1,3,1,3,0,0,1,2,31,07,973
+Italy,Nigeria,80,71,0,Marco Spissu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Italy,Nigeria,80,71,1,Nico Mannion,14,1,3,4,1,0,0,1,0,4,12,4,12,3,7,1,5,5,5,31,07,977
+Italy,Nigeria,80,71,7,Stefano Tonut,10,0,2,2,1,2,2,2,0,6,9,4,8,4,6,0,2,2,2,31,07,1597
+Italy,Nigeria,80,71,8,Danilo Gallinari,3,1,1,2,1,3,0,0,1,-6,3,1,4,1,3,0,1,1,2,31,07,509
+Italy,Nigeria,80,71,9,Nicolò Melli,15,1,4,5,1,4,2,1,0,13,14,6,12,5,8,1,4,2,2,31,07,1587
+Italy,Nigeria,80,71,13,Simone Fontecchio,12,0,2,2,4,4,3,2,0,19,11,5,11,3,4,2,7,0,0,31,07,1665
+Italy,Nigeria,80,71,16,Amedeo Tessitori,3,1,1,2,0,0,2,1,2,0,4,1,3,1,3,0,0,1,1,31,07,330
+Italy,Nigeria,80,71,17,Giampaolo Ricci,6,1,2,3,1,1,1,0,0,9,8,2,3,0,0,2,3,0,0,31,07,779
+Italy,Nigeria,80,71,24,Riccardo Moraschini,0,0,1,1,0,0,0,0,0,-10,0,0,1,0,1,0,0,0,0,31,07,735
+Italy,Nigeria,80,71,31,Michele Vitali,0,0,6,6,1,1,0,0,0,3,2,0,5,0,2,0,3,0,0,31,07,803
+Italy,Nigeria,80,71,33,Achille Polonara,13,3,2,5,2,2,1,0,0,-1,16,5,8,3,4,2,4,1,1,31,07,1512
+Italy,Nigeria,80,71,54,Alessandro Pajola,4,1,2,3,4,1,0,1,0,8,7,0,3,0,1,0,2,4,6,31,07,1506
+Nigeria,Italy,71,80,0,KZ Okpala,2,0,1,1,0,2,0,0,0,-5,3,0,0,0,0,0,0,2,2,31,07,220
+Nigeria,Italy,71,80,3,Caleb Agada,0,0,2,2,0,2,1,0,0,-1,0,0,1,0,0,0,1,0,0,31,07,316
+Nigeria,Italy,71,80,8,Ekpe Udoh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Nigeria,Italy,71,80,10,Chimezie Metu,22,1,9,10,3,0,2,3,0,8,32,7,11,1,4,6,7,2,2,31,07,1893
+Nigeria,Italy,71,80,11,Obi Emegano,0,1,0,1,2,5,2,2,0,12,-2,0,3,0,3,0,0,0,2,31,07,1302
+Nigeria,Italy,71,80,13,Miye Oni,3,0,2,2,2,2,0,0,1,-19,1,1,8,0,2,1,6,0,0,31,07,1271
+Nigeria,Italy,71,80,15,Jahlil Okafor,14,3,5,8,0,1,4,0,0,-1,17,7,8,7,8,0,0,0,0,31,07,1217
+Nigeria,Italy,71,80,20,Josh Okogie,2,0,1,1,0,1,3,0,0,-14,0,0,0,0,0,0,0,2,2,31,07,461
+Nigeria,Italy,71,80,22,Nnamdi Vincent,3,0,1,1,1,4,1,2,0,-23,2,1,5,0,2,1,3,0,0,31,07,1517
+Nigeria,Italy,71,80,33,Jordan Nwora,20,1,3,4,0,2,2,0,0,2,10,7,17,4,10,3,7,3,5,31,07,2060
+Nigeria,Italy,71,80,34,Ike Nwamu,0,0,1,1,2,2,2,0,0,4,-4,0,5,0,1,0,4,0,0,31,07,700
+Nigeria,Italy,71,80,55,Precious Achiuwa,5,2,4,6,1,1,2,0,1,-8,8,2,4,2,4,0,0,1,2,31,07,1043
+Australia,Germany,89,76,4,Chris Goulding,3,0,1,1,0,1,0,0,0,1,2,1,3,0,0,1,3,0,0,31,07,459
+Australia,Germany,89,76,5,Patty Mills,24,0,1,1,6,0,3,0,0,10,14,9,23,4,8,5,15,1,1,31,07,1973
+Australia,Germany,89,76,6,Josh Green,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,31,07,74
+Australia,Germany,89,76,7,Joe Ingles,6,1,4,5,3,2,2,3,0,11,9,2,8,0,2,2,6,0,0,31,07,1617
+Australia,Germany,89,76,8,Matthew Dellavedova,2,0,1,1,1,3,1,1,0,-8,1,1,4,1,2,0,2,0,0,31,07,938
+Australia,Germany,89,76,9,Nathan Sobey,4,0,1,1,1,0,0,1,0,16,7,2,2,2,2,0,0,0,0,31,07,755
+Australia,Germany,89,76,10,Matisse Thybulle,4,1,1,2,1,4,0,4,0,-1,10,2,3,2,2,0,1,0,0,31,07,1181
+Australia,Germany,89,76,11,Dante Exum,8,1,3,4,3,1,0,1,0,17,14,2,3,2,3,0,0,4,5,31,07,1193
+Australia,Germany,89,76,12,Aron Baynes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Australia,Germany,89,76,13,Jock  Landale,18,1,2,3,3,3,0,0,1,12,22,7,10,5,8,2,2,2,2,31,07,1486
+Australia,Germany,89,76,14,Duop Thomas Reath,4,0,1,1,0,0,0,2,0,-2,5,2,4,2,3,0,1,0,0,31,07,453
+Australia,Germany,89,76,15,Nick Kay,16,3,1,4,4,2,0,1,0,10,22,7,10,6,8,1,2,1,1,31,07,1871
+Germany,Australia,76,89,0,Isaac Bonga,5,1,2,3,0,4,2,0,0,-13,4,1,2,1,2,0,0,3,4,31,07,1087
+Germany,Australia,76,89,1,Joshiko Saibou,7,1,1,2,1,1,4,0,0,-8,5,3,4,2,3,1,1,0,0,31,07,671
+Germany,Australia,76,89,4,Maodo Lo,6,2,2,4,5,1,6,1,0,-5,0,2,12,1,4,1,8,1,1,31,07,1729
+Germany,Australia,76,89,5,Niels Giffey,11,1,3,4,2,1,2,0,0,-3,13,4,6,3,3,1,3,2,2,31,07,1705
+Germany,Australia,76,89,6,Jan Niklas Wimberg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Germany,Australia,76,89,7,Johannes Voigtmann,7,4,9,13,2,2,1,1,1,-5,18,2,7,1,3,1,4,2,2,31,07,1532
+Germany,Australia,76,89,12,Robin Benzing,0,0,0,0,0,2,0,0,0,-3,-2,0,2,0,1,0,1,0,0,31,07,230
+Germany,Australia,76,89,13,Moritz Wagner,6,0,3,3,2,1,0,0,0,-9,10,2,3,2,3,0,0,2,2,31,07,811
+Germany,Australia,76,89,19,Lukas Wank,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,0
+Germany,Australia,76,89,22,Danilo Barthel,6,0,3,3,1,2,1,0,0,-8,8,2,3,1,2,1,1,1,1,31,07,793
+Germany,Australia,76,89,32,Johannes Thiemann,11,5,4,9,0,2,0,1,1,-4,18,4,8,3,5,1,3,2,2,31,07,1563
+Germany,Australia,76,89,42,Andreas Obst,17,0,0,0,1,1,2,0,0,-7,6,6,16,1,4,5,12,0,0,31,07,1879
+USA,Czech Republic,119,84,4,Keldon Johnson,0,0,1,1,0,0,0,0,0,3,0,0,1,0,0,0,1,0,0,31,07,252
+USA,Czech Republic,119,84,5,Zach Lavine,13,1,1,2,5,0,0,1,0,27,19,5,7,2,2,3,5,0,0,31,07,1216
+USA,Czech Republic,119,84,6,Damian  Lillard,8,0,3,3,3,3,0,1,0,11,8,3,10,1,2,2,8,0,0,31,07,1599
+USA,Czech Republic,119,84,7,Kevin Durant,23,0,8,8,6,2,2,0,1,23,32,8,11,4,4,4,7,3,4,31,07,1655
+USA,Czech Republic,119,84,8,Khris Middleton,8,1,3,4,3,1,0,1,0,29,13,3,6,1,2,2,4,0,0,31,07,1366
+USA,Czech Republic,119,84,9,Jerami Grant,0,1,1,2,1,0,0,1,0,3,3,0,1,0,0,0,1,0,0,31,07,252
+USA,Czech Republic,119,84,10,Jayson  Tatum,27,0,2,2,1,1,2,0,2,32,23,10,16,5,6,5,10,2,3,31,07,1438
+USA,Czech Republic,119,84,11,Javale McGee,10,1,0,1,0,0,0,0,0,3,10,4,4,4,4,0,0,2,3,31,07,252
+USA,Czech Republic,119,84,12,Jrue Holiday,11,1,2,3,2,0,2,3,1,5,16,5,7,4,5,1,2,0,0,31,07,1231
+USA,Czech Republic,119,84,13,Bam Adebayo,6,1,2,3,1,2,0,1,0,19,10,3,4,3,4,0,0,0,0,31,07,1244
+USA,Czech Republic,119,84,14,Draymond Green,8,0,4,4,2,3,1,0,0,13,13,3,3,1,1,2,2,0,0,31,07,904
+USA,Czech Republic,119,84,15,Devin Booker,5,0,1,1,0,5,3,0,1,7,2,1,3,0,1,1,2,2,2,31,07,591
+Czech Republic,USA,84,119,1,Patrik Auda,6,1,2,3,1,1,2,0,0,-25,4,3,5,3,5,0,0,0,2,31,07,975
+Czech Republic,USA,84,119,4,Tomas Vyoral,0,0,0,0,1,1,0,0,0,-4,0,0,1,0,1,0,0,0,0,31,07,171
+Czech Republic,USA,84,119,8,Tomas Satoransky,12,0,6,6,8,1,2,0,0,-19,17,5,12,5,10,0,2,2,2,31,07,1965
+Czech Republic,USA,84,119,11,Blake Schilb,17,0,5,5,1,0,5,2,0,-30,17,6,9,1,3,5,6,0,0,31,07,1882
+Czech Republic,USA,84,119,12,Ondrej Balvín,15,0,4,4,1,2,0,1,0,-28,17,6,9,6,8,0,1,3,4,31,07,1945
+Czech Republic,USA,84,119,13,Jakub Sirina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,07,87
+Czech Republic,USA,84,119,15,Martin Peterka,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,31,07,126
+Czech Republic,USA,84,119,17,Jaromir Bohacik,2,1,3,4,1,3,0,1,0,0,4,1,4,1,4,0,0,0,1,31,07,1091
+Czech Republic,USA,84,119,19,Ondrej Sehnal,5,1,0,1,0,3,1,1,0,-17,3,2,5,1,1,1,4,0,0,31,07,695
+Czech Republic,USA,84,119,23,Lukas Palyza,7,0,0,0,0,0,0,0,0,-13,5,3,5,2,4,1,1,0,0,31,07,600
+Czech Republic,USA,84,119,24,Jan Vesely,13,3,0,3,4,1,2,1,1,-17,14,5,10,5,10,0,0,3,4,31,07,1754
+Czech Republic,USA,84,119,25,David Jelinek,7,0,0,0,0,2,0,0,0,-22,2,3,8,2,4,1,4,0,0,31,07,709
+Argentina,Japan,97,77,4,Luís Scola,23,2,8,10,0,1,2,1,1,14,21,9,21,4,13,5,8,0,0,1,08,1573
+Argentina,Japan,97,77,7,Facundo Campazzo,17,0,7,7,11,2,3,0,0,16,25,5,11,0,2,5,9,2,3,1,08,1539
+Argentina,Japan,97,77,8,Nicolás Laprovittola,4,0,3,3,6,2,2,1,0,6,4,0,8,0,0,0,8,4,4,1,08,1733
+Argentina,Japan,97,77,9,Nicolas Brussino,8,1,6,7,3,1,0,0,0,13,13,3,8,1,3,2,5,0,0,1,08,1791
+Argentina,Japan,97,77,10,Leandro Bolmaro,4,1,0,1,0,1,1,3,0,2,6,2,3,2,3,0,0,0,0,1,08,503
+Argentina,Japan,97,77,11,Francisco Caffaro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Argentina,Japan,97,77,12,Marcos Delia,14,5,2,7,0,2,1,1,1,15,19,6,9,6,9,0,0,2,2,1,08,1406
+Argentina,Japan,97,77,14,Gabriel Deck,16,2,2,4,3,2,1,1,1,15,21,7,10,6,8,1,2,1,1,1,08,1409
+Argentina,Japan,97,77,17,Luca Vildoza,7,0,2,2,4,2,0,1,0,18,10,2,6,1,2,1,4,2,2,1,08,1528
+Argentina,Japan,97,77,22,Juan Pablo Vaulet,4,1,0,1,0,1,1,0,0,3,3,2,3,2,3,0,0,0,0,1,08,344
+Argentina,Japan,97,77,29,Patricio Garino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Argentina,Japan,97,77,83,Tayavek Gallizzi,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,1,08,174
+Japan,Argentina,77,97,2,Yuki Togashi,3,0,2,2,3,2,1,0,0,-11,3,1,5,0,2,1,3,0,0,1,08,1516
+Japan,Argentina,77,97,6,Makoto Hiejima,13,1,1,2,3,1,1,0,2,-21,13,6,12,5,7,1,5,0,0,1,08,1507
+Japan,Argentina,77,97,8,Rui Hachimura,13,2,9,11,2,1,4,0,1,-23,12,6,17,5,13,1,4,0,0,1,08,2351
+Japan,Argentina,77,97,9,Leo Vendrame,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Japan,Argentina,77,97,12,Yuta Watanabe,17,2,7,9,1,2,3,0,1,-15,18,7,14,7,10,0,4,3,3,1,08,2079
+Japan,Argentina,77,97,14,Kosuke Kanamaru,0,1,0,1,0,1,0,1,0,6,-1,0,3,0,1,0,2,0,0,1,08,333
+Japan,Argentina,77,97,18,Yudai Baba,18,3,4,7,3,1,2,1,0,-19,23,8,12,6,9,2,3,0,0,1,08,2030
+Japan,Argentina,77,97,23,Gavin Earl Edwards,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Japan,Argentina,77,97,24,Daiki Tanaka,10,0,3,3,3,3,0,1,0,-14,12,4,9,4,5,0,4,2,2,1,08,1298
+Japan,Argentina,77,97,32,Avi Koki Schafer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,124
+Japan,Argentina,77,97,34,Hugh Watanabe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Japan,Argentina,77,97,88,Tenketsu Harimoto,3,0,1,1,1,2,2,0,0,-3,-2,1,6,0,5,1,1,0,0,1,08,762
+Spain,Slovenia,87,95,3,Xabi Lopez-Arostegui,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Spain,Slovenia,87,95,4,Pau Gasol,8,2,2,4,1,0,1,0,1,-7,9,2,6,0,4,2,2,2,2,1,08,887
+Spain,Slovenia,87,95,5,Rudy Fernandez,12,1,4,5,1,5,0,2,0,-5,15,4,9,0,0,4,9,0,0,1,08,1622
+Spain,Slovenia,87,95,6,Sergio Rodriguez,5,0,2,2,5,1,2,0,0,-4,5,1,6,0,0,1,6,2,2,1,08,955
+Spain,Slovenia,87,95,9,Ricky Rubio,18,1,2,3,9,3,1,1,0,-4,13,7,23,6,15,1,8,3,4,1,08,1445
+Spain,Slovenia,87,95,10,Victor Claver,4,3,3,6,1,4,1,0,0,-1,7,2,5,2,3,0,2,0,0,1,08,1469
+Spain,Slovenia,87,95,13,Marc Gasol,9,0,6,6,4,0,0,0,0,-1,12,3,8,2,5,1,3,2,4,1,08,1513
+Spain,Slovenia,87,95,14,Willy Hernangomez,2,1,2,3,0,0,1,0,0,-1,2,1,3,1,2,0,1,0,0,1,08,472
+Spain,Slovenia,87,95,16,Usman Garuba,0,0,1,1,0,2,0,0,0,-1,1,0,0,0,0,0,0,0,0,1,08,436
+Spain,Slovenia,87,95,20,Alberto Abalde,14,1,3,4,1,3,0,3,0,4,18,4,8,0,1,4,7,2,2,1,08,1640
+Spain,Slovenia,87,95,21,Alex Abrines,3,0,2,2,1,4,0,1,0,-13,6,1,2,0,0,1,2,0,0,1,08,410
+Spain,Slovenia,87,95,23,Sergio Llull,12,0,0,0,1,1,2,0,0,-7,8,4,7,2,3,2,4,2,2,1,08,1151
+Slovenia,Spain,95,87,5,Luka Rupnik,0,1,1,2,0,1,0,0,0,-5,0,0,2,0,1,0,1,0,0,1,08,157
+Slovenia,Spain,95,87,6,Aleksej Nikolic,0,0,0,0,2,1,0,1,0,11,-1,0,4,0,1,0,3,0,0,1,08,475
+Slovenia,Spain,95,87,7,Klemen Prepelic,15,1,1,2,3,1,1,2,0,16,15,2,7,0,2,2,5,9,10,1,08,1528
+Slovenia,Spain,95,87,8,Edo Murić,8,0,2,2,1,1,1,1,0,5,8,3,6,1,2,2,4,0,0,1,08,677
+Slovenia,Spain,95,87,10,Mike Tobey,16,3,11,14,3,4,2,0,0,-4,26,7,12,7,12,0,0,2,2,1,08,1960
+Slovenia,Spain,95,87,11,Jaka Blažič,10,1,3,4,2,2,0,1,1,-10,7,4,15,2,5,2,10,0,0,1,08,1596
+Slovenia,Spain,95,87,15,Gregor Hrovat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Slovenia,Spain,95,87,27,Žiga Dimec,6,2,3,5,1,1,0,0,0,7,11,3,4,3,4,0,0,0,0,1,08,425
+Slovenia,Spain,95,87,30,Zoran Dragic,6,1,1,2,3,3,0,0,0,1,8,2,5,2,2,0,3,2,2,1,08,1409
+Slovenia,Spain,95,87,31,Vlatko Cancar,22,1,1,2,1,2,1,0,1,8,21,8,12,4,5,4,7,2,2,1,08,1738
+Slovenia,Spain,95,87,55,Jakob Cebasek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,08,0
+Slovenia,Spain,95,87,77,Luka Doncic,12,2,12,14,9,3,5,1,0,11,21,2,7,0,2,2,5,6,11,1,08,2035
